@@ -1,4 +1,4 @@
-# IshitoriApp
+# IshitoriGame
 GUIで操作する1vs1の石とりゲーム
 
 ## Description
@@ -7,24 +7,26 @@ GUIウィンドウ上で動く。
 
 ***DEMO:***
 
-![Demo](https://image-url.gif)
+![circleanimationmuvie](https://github.com/Canon11/IshitoriGame/blob/master/gif/Demo.gif)
 
 ## Features
-- あえてGUI部品で作ることで、シンプルかつ動作を軽くしてミニゲーム感を出している。
+- あえてGUI部品で作ることで、シンプルかつ動作を軽くしてミニゲーム感が出ている（多分）。
+- 取れる石が赤色でハイライトされる。
+- リスタートで何度もプレイが可能。
 
 ## Requirement
 - java 1.7
 
 ## Usage
 ```
-$ cd IshitoriApp
+$ cd IshitoriGame
 $ javac *.java
 $ java MyApplication
 ```
 
 ## Installation
 ```
-$ git clone https://github.com/Canon11/IshitoriApp.git
+$ git clone https://github.com/Canon11/IshitoriGame.git
 ```
 
 ## Anything Else
