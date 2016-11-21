@@ -1,5 +1,3 @@
-package Ishitori;
-
 public class PlayerSystem {
 	Player player1;
 	Player player2;

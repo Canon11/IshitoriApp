@@ -1,4 +1,3 @@
-package Ishitori;
 import java.awt.*;
 
 public class Stone {

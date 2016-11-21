@@ -1,5 +1,3 @@
-package Ishitori;
-
 import java.awt.*;
 import javax.swing.*;
 
